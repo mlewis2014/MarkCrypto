@@ -1,6 +1,5 @@
 package org.markl.crypto;
 
-import java.security.SecureRandom;
 
 public class EncryptionTestRunner {
 
